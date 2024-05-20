@@ -3,6 +3,7 @@ Group Project, Assignment 3 SWE30003
 
 Language as preference: C#
 Identified classes: Customer, Reservation, Table, Menu, MenuItem, Order, Payment, Receipt, Invoice, Delivery.
+
 Operate on Terminal Console base.
 
 Case Study: Restaurant Information System
