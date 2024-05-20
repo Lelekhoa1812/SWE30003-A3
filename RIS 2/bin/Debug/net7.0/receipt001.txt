@@ -1,0 +1,16 @@
+Relaxing Koala Restaurant
+
+Customer Receipt
+Order ID: #001
+Customer Name: Khoa
+Contact Number: 0450445373
+Payment Method: debit card
+Date: 5/20/2024 12:48:44 PM
+
+1. Dumpling -  $12.00
+2. Pho -  $20.00
+3. Cake -  $14.00
+4. Coffee -  $6.00
+5. Ice cream -  $6.00
+6. Pho -  $20.00
+Total: $78.00
